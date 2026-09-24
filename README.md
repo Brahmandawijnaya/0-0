@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: **Programming Language**
 - 👯 I’m looking to collaborate on: **Web Development Maybe🤔**
 - 💬 Ask me about: **What Ever...**
-- 📫 How to reach me: **brahmandawijnaya@gmail.com]**
+- 📫 How to reach me: **brahmandawijnaya@gmail.com**
 - ⚡ Fun fact: **Whoever reads this is gay.**
 
 ---
@@ -62,7 +62,7 @@
   <a href="https://instagram.com/brahmanda_wijnaya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:brahmandawijnaya@gmail.com.com">
+  <a href="mailto:brahmandawijnaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -72,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Brahmandawijnaya&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Brahmandawijnaya&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
