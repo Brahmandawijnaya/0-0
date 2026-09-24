@@ -1,36 +1,82 @@
-# <summary><strong>Hi there :wave: , I'm Brahmanda!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+# 👋 Hello, I'm Brahmanda!
+
+### 💻 Programmer | 🌏 Indonesia
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on: **Custom Arch Linux OS**
+- 🌱 I’m currently learning: **Programming Language**
+- 👯 I’m looking to collaborate on: **Web Development Maybe🤔**
+- 💬 Ask me about: **What Ever...**
+- 📫 How to reach me: **brahmandawijnaya@gmail.com]**
+- ⚡ Fun fact: **Whoever reads this is gay.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Orca](https://img.shields.io/badge/Orca-6A5ACD?style=for-the-badge&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-
-
-### <summary><strong>Tools:</strong></summary>
-
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:brahmandawijnaya@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
+---
 
-### <summary><strong>Let's connect!</strong></summary>
+## 🌐 Connect with Me
 
-<a href="https://www.instagram.com/brahmanda_wijnaya/">
-  <img align="left" alt="Brahmanda's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Brahmanda's's Website" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/brahmanda_wijnaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:brahmandawijnaya@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Brahmanda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmanda&layout=compact" height=180 />
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Brahmandawijnaya&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
