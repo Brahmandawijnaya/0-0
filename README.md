@@ -40,15 +40,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brahmandawijnaya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brahmandawijnaya&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmandawijnaya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brahmandawijnaya&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brahmandawijnaya&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
