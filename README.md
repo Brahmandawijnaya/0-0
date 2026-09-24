@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Brahmanda!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -29,3 +29,8 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://yours.com/">
   <img align="left" alt="Brahmanda's's Website" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Brahmanda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmanda&layout=compact" height=180 />
+</p>
