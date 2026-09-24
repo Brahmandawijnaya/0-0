@@ -60,6 +60,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
